@@ -1,0 +1,2 @@
+## Description
+Moving average crossover system to buy when 5 Day Moving Average crosses above 5 Day High Moving Average and sell when 5 Day moving Average crosses below 5 Day Low Moving Average. Currently have taken TCS EOD data for 2018.
